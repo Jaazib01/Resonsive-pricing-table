@@ -1,0 +1,1 @@
+I learned about flex, flex-sizing and applied that in this project, I have done some flex-sizing using shrink ang grow values which allows this website to behave responsively on different screen sizes.
